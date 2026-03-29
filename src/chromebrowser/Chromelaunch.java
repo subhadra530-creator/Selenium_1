@@ -42,6 +42,8 @@ public class Chromelaunch {
 				JavascriptExecutor js=(JavascriptExecutor) driver;
                 js.executeScript("arguments[0].click()", btnCart);
 				driver.close();
+				
+			//	git practice
 			}
 		}
 			}
